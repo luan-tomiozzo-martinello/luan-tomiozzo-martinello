@@ -1,22 +1,10 @@
+### Olá, sou o Luan
+
 <div align="center">
   <a href="https://github.com/luan-tomiozzo-martinello">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luan-tomiozzo-martinello&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-tomiozzo-martinello&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
-
-
-</div>
-  
-  ##
-
-<!-- 
-### Olá, sou o Luan
-
-<div align="center">
-  <a href="https://github.com/luan-tomiozzo-martinello">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luan-tomiozzo-martinello&show_icons=true&theme=highcontrast&include_all_commits=true&
-  count_private=true"/>
-</div> 
     
 
 <div align="center"><br>
@@ -47,4 +35,4 @@
   ![Snake animation](https://github.com/luan-tomiozzo-martinello/luan-tomiozzo-martinello/blob/output/github-contribution-grid-snake.svg)
 
 
- -->
+
